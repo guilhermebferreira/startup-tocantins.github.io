@@ -1,0 +1,27 @@
+#events_group p {
+  display: inline-block;
+  /*max-width: 80%;*/
+  height: 15em;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  /*white-space: nowrap;*/
+}
+
+#events_group .h1,
+#events_group  .h2,
+#events_group  .h3,
+#events_group  .h4,
+#events_group  .h5,
+#events_group  .h6,
+#events_group h1,
+ #events_group h2,
+ #events_group h3,
+ #events_group h4,
+ #events_group  h5,
+ #events_group h6 {
+  margin-bottom: .5rem;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+
